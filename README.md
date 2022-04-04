@@ -17,7 +17,7 @@ Seleccionar cualquier Actor y agregar el componente `Marker`.
 Al seleccionar el `Marker` del Actor, se podrán configurar 2 parametros: `Marker Text` y `Is Completed`.
 
 `Marker Text` es el texto que se mostrará en el marcador.
-`Is Completed` es un booleano que indica si el marcador ya fue completado, en este caso, el marcador se hará invisible, el contador de markadores completos aumentará y el de incompletos disminuirá.
+`Is Completed` es un booleano que indica si el marcador ya fue completado, en este caso, el marcador se hará invisible, el contador de marcadores completos aumentará y el de incompletos disminuirá.
 
 ## Marker Manager (Componente)
 
